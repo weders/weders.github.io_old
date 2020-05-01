@@ -27,6 +27,25 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
+  title = "Computer Vision Researcher"
+  company = "ETH juniors"
+  company_url = ""
+  location = ""
+  date_start = "2018-11-01"
+  date_end = "2019-07-31"
+  description = """"""
+
+[[experience]]
+  title = "Student Researcher"
+  lab = "Computer Vision and Geometry Lab"
+  company = "ETH Zürich"
+  company_url = ""
+  location = ""
+  date_start = "2018-11-01"
+  date_end = "2019-05-31"
+  description = """"""
+
+[[experience]]
   title = "Applied Science Intern"
   company = "Amazon"
   company_url = ""
