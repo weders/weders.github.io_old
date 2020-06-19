@@ -134,8 +134,8 @@ We quantitatively and qualitatively show that our method outperforms existing de
 <table align='center'">
 <tr>
 <th>Method</th>
-<th>MAD [e-05]</th>
-<th>MSE</th>
+<th>MSE [e-05]</th>
+<th>MAD</th>
 <th>Acc. [%]</th>
 <th>IoU. [0, 1]</th>
 </tr>
